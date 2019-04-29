@@ -48,7 +48,7 @@
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/73</dc:source>
-		<meta property="se:word-count">46836</meta>
+		<meta property="se:word-count">46837</meta>
 		<meta property="se:reading-ease.flesch">74.9</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Red_Badge_of_Courage</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/stephen-crane_the-red-badge-of-courage-an-episode-of-the-american-civil-war</meta>
