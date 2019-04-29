@@ -42,16 +42,14 @@
 		<meta property="se:subject">TAG</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
-			LONG_DESCRIPTION
-		]]></meta>
+		<meta id="long-description" property="se:long-description" refines="#description"> LONG_DESCRIPTION </meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/73</dc:source>
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Special:Search?search=The+Red+Badge+of+Courage%3A+An+Episode+of+the+American+Civil+War&go=Go&ns0=1</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Red_Badge_of_Courage</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/stephen-crane_the-red-badge-of-courage-an-episode-of-the-american-civil-war</meta>
 		<dc:creator id="author">Stephen Crane</dc:creator>
 		<meta property="file-as" refines="#author">AUTHOR_SORT</meta>
@@ -64,7 +62,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">Arthur Smith.  HTML version by Al Haines.</dc:contributor>
+		<dc:contributor id="transcriber-1">Arthur Smith. HTML version by Al Haines.</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
